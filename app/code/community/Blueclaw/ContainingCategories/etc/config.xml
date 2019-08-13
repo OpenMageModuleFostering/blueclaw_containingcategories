@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Blueclaw_ContainingCategories>
+            <version>0.1.0</version>
+        </Blueclaw_ContainingCategories>
+    </modules>
+	<global>
+		<blocks>
+			<containingcategories>
+				<class>Blueclaw_ContainingCategories_Block</class>
+			</containingcategories>
+		</blocks>
+	</global>
+	<frontend>
+		<layout>
+            <updates>
+                <containingcategories>
+                    <file>containingcategories.xml</file>
+                </containingcategories>
+            </updates>
+        </layout>  
+		<translate>
+			<modules>
+				<Blueclaw_Smartreviews>
+					<files>
+						<default>Blueclaw_ContainingCategories.csv</default>
+					</files>
+				</Blueclaw_Smartreviews>
+			</modules>
+		</translate>
+	</frontend>
+</config>
