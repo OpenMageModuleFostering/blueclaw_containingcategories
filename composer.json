@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Blueclaw_ContainingCategories",
+    "name": "openmage-module-fostering\/blueclaw_containingcategories",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL-3.0)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Simple module to list the categories a product belongs to on the category page.",
     "authors": [
